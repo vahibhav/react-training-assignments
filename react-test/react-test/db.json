@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "title": "mr",
+      "firstName": "arun",
+      "lastName": "raikar",
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdKeD_a3n0D-qgG4OsXHPvWT8oGaOFnKybem2gbeqRg&s"
+    },
+    {
+      "id": "2",
+      "title": "mr",
+      "firstName": "varun",
+      "lastName": "kumar",
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdKeD_a3n0D-qgG4OsXHPvWT8oGaOFnKybem2gbeqRg&s"
+    },
+    {
+      "id": "3",
+      "title": "mr",
+      "firstName": "tharun",
+      "lastName": "pandey",
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdKeD_a3n0D-qgG4OsXHPvWT8oGaOFnKybem2gbeqRg&s"
+    },
+    {
+      "id": "3",
+      "title": "mr",
+      "firstName": "kaushal",
+      "lastName": "singh",
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdKeD_a3n0D-qgG4OsXHPvWT8oGaOFnKybem2gbeqRg&s"
+    }
+  ]
+}
